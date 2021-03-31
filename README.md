@@ -48,4 +48,5 @@ Ratón:
 **Gif sobre el funcionamiento**
 
 
-![Alt Text](https://i.gyazo.com/e1c85024c81267ead8bd09bb875640cd.gif)
+![Alt Text](https://i.gyazo.com/e1c85024c81267ead8bd09bb875640cd.gif![imagen](https://user-images.githubusercontent.com/55792571/113192230-6c7e6e80-9256-11eb-9152-6e57b560b72c.png)
+)

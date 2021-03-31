@@ -1,6 +1,6 @@
 # Cámara processing 
 
-![N|Solid](https://gyazo.com/00ba98cf6bad5c74ee7ec8473da55566)
+![N|Solid](https://i.gyazo.com/04807768c94b1dd842c90049f406ff26.png)
 
 # Indice
 
@@ -30,7 +30,7 @@ Disponemos de la posibilidad de:
 
 Se ha decidido mantener nuestra composición de objetos como eje central de la escena para así imposibilitar mareos o "perdidas de cámara", es decir, con esto logramos atraer completamente la atracción del usuario en nuestra escena. Por otra parte, se ha decidido no poner una base inferior o lateral a modo de suelo y parades para dar más libertad al usuario en cuanto a cámara se refiere.
 
-![N|Solid](https://i.gyazo.com/2a657512c409c0cf7870a8fe749f6930.png)
+![N|Solid](https://i.gyazo.com/0cdfa6cb565cf8ed19e85c631b0a82d6.png)
 
 **Tutorial**
 
@@ -47,4 +47,5 @@ Ratón:
   
 **Gif sobre el funcionamiento**
 
-![Alt Text](https://i.gyazo.com/00ba98cf6bad5c74ee7ec8473da55566.gif)
+
+![Alt Text](https://i.gyazo.com/e1c85024c81267ead8bd09bb875640cd.gif)
